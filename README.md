@@ -39,9 +39,9 @@
 
 ## 📞 Контакты
 
-- **Email:** [ваш email]
-- **Telegram:** [ваш telegram]
-- **Сайт:** [ссылка на сайт]
+- **Email:** dmitri.gornakov@gmail.com
+- **Telegram:** @visual_sense
+- **Сайт:** [https://visualgravitysense.github.io/digitalisation-course-landing/](url)
 
 ---
 
